@@ -355,12 +355,12 @@ section:nth-child(2n + 1) {
 
 .project-info h3 {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 20px;
   color: #333;
 }
 
 .project-info p {
-  font-size: 16px;
+  font-size: 13px;
   color: #555;
   margin-bottom: 10px;
 }
@@ -368,10 +368,10 @@ section:nth-child(2n + 1) {
 .project-info a {
   color: #007bff;
   text-decoration: none;
-  font-weight: bold;
+/*   font-weight:; */
 }
 
-.project-info a:hover {
+.github-link a:hover {
   text-decoration: underline;
 }
 
