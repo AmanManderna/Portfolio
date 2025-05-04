@@ -9,7 +9,7 @@ body::-webkit-scrollbar {
 }
 
 /* Body Header */
-
+/* 
 #body-header {
   height: 65vh;
   opacity: 0.8;
@@ -18,7 +18,7 @@ body::-webkit-scrollbar {
   background-position: center;
   background-attachment: fixed;
   padding-top: 1.2rem;
-}
+} */
 
 /* Horizontal Lists */
 
@@ -156,7 +156,7 @@ section:nth-child(2n + 1) {
 
 #my-image {
   height: 12rem;
-  width: 12rem;
+  width: 14rem;
   margin: auto;
   margin-top: -17vh;
 }
@@ -164,7 +164,7 @@ section:nth-child(2n + 1) {
 #my-image img {
   height: 100%;
   width: 100%;
-  border-radius: 50%;
+/*   border-radius: 50%; */
   border: 3px solid white;
   box-shadow: 1px 1px 10px 2px lightgrey;
 }
